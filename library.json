@@ -21,5 +21,12 @@
   "metadataSettings": {
     "disable": 0,
     "disableExtraTitleField": 1
-  }
+  },
+  "preloadedDependencies": [
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ]
 }
