@@ -3,8 +3,8 @@
   "contentType": "Static content",
   "description": "Simple library that displays text.",
   "majorVersion": 1,
-  "minorVersion": 1,
-  "patchVersion": 15,
+  "minorVersion": 2,
+  "patchVersion": 0,
   "runnable": 0,
   "machineName": "H5P.Text",
   "author": "Joubel",
@@ -21,5 +21,19 @@
   "metadataSettings": {
     "disable": 0,
     "disableExtraTitleField": 1
-  }
+  },
+  "preloadedDependencies": [
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ],
+  "editorDependencies": [
+    {
+      "machineName": "EditorFontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ]
 }
